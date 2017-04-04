@@ -3,3 +3,5 @@
 #If your command is already included in one of the autocomplete tiers
 #Your alias will be added to that portion of the autocomplete
 cd, module
+clear, shell clear
+clr, shell clear
